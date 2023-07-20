@@ -1,0 +1,4 @@
+(library
+ (name menhirLib)
+ (flags :standard (-w -27-67))
+ (modes :standard melange))

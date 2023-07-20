@@ -1,0 +1,6 @@
+(melange.emit
+ (target out)
+ (alias out)
+ (module_systems (es6 "mjs"))
+ (promote (until-clean))
+ (libraries batteries menhirLib))

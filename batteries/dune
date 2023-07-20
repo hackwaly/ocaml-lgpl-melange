@@ -1,0 +1,3 @@
+(library
+ (name batteries)
+ (modes :standard melange))
